@@ -2,7 +2,8 @@
 
 You can view the live demo of the project by clicking the link below:
 
-[Demo Page]([https://react-ecommerce-for-testing-purposes.vercel.app/])
+[Demo Page](https://react-ecommerce-for-testing-purposes.vercel.app/)
+
 
 ## Screenshot 
 
