@@ -35,7 +35,7 @@ To run this project locally, follow the steps below:
 
 ### 1. Clone the Repository
 
-git clone [https://github.com/hamzaunsal/ecommerce-demo.git](https://github.com/Neymaro/React-Ecommerce-For-Testing-Purposes)
+git clone [React Ecommerce Testing](https://github.com/Neymaro/React-Ecommerce-For-Testing-Purposes)
 
 
 ### 2. Install Dependencies
